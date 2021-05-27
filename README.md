@@ -1,79 +1,31 @@
 
-# Product Name
-> Short blurb about what your product does.
+# Project1JSONDB
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+**About JsonPowerDB:**
+JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
 
-![](header.png)
+## Benefits of using JsonPowerDB
+Simplest way to retrieve data in a JSON format.
+Schema-free, Simple to use, Nimble and In-Memory database.
+It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
+It is low level (raw) form of data and is also human readable.
+It helps developers in faster coding, in-turn reduces development cost.
 
-## Installation
+## MYJPDB Screenshots
 
-OS X & Linux:
 
-```sh
-npm install my-crazy-module --save
-```
+![image](https://user-images.githubusercontent.com/84911098/119823954-02f7a500-bf13-11eb-97dd-d9d5b750dbff.png)
 
-Windows:
+## Database Screenshot
 
-```sh
-edit autoexec.bat
-```
+![image](https://user-images.githubusercontent.com/84911098/119824774-e14aed80-bf13-11eb-8d96-762ba94e4eaa.png)
 
-## Usage example
+## Comands Using Talend
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+![image](https://user-images.githubusercontent.com/84911098/119825085-38e95900-bf14-11eb-9d5a-f7587b3327d9.png)
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
 
-## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
-```sh
-make install
-npm test
-```
 
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
