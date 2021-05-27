@@ -25,6 +25,14 @@ It helps developers in faster coding, in-turn reduces development cost.
 
 ![image](https://user-images.githubusercontent.com/84911098/119828270-a34fc880-bf17-11eb-9382-7cb7b78b0127.png)
 
+## Adding data to DB Employee using form
+
+![image](https://user-images.githubusercontent.com/84911098/119836839-aea6f200-bf1f-11eb-836a-066524cbca78.png)
+
+
+![image](https://user-images.githubusercontent.com/84911098/119836710-91722380-bf1f-11eb-833c-af14d65b5316.png)
+
+
 
 
 
