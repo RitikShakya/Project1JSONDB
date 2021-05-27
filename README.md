@@ -14,16 +14,16 @@ It helps developers in faster coding, in-turn reduces development cost.
 
 ## MYJPDB Screenshots
 
-
-![image](https://user-images.githubusercontent.com/84911098/119823954-02f7a500-bf13-11eb-97dd-d9d5b750dbff.png)
+![image](https://user-images.githubusercontent.com/84911098/119827943-4fdd7a80-bf17-11eb-832a-7894ba73e381.png)
 
 ## Database Screenshot
 
-![image](https://user-images.githubusercontent.com/84911098/119824774-e14aed80-bf13-11eb-8d96-762ba94e4eaa.png)
+![image](https://user-images.githubusercontent.com/84911098/119828323-af3b8a80-bf17-11eb-8078-3e92961fc3c9.png)
+
 
 ## Comands Using Talend
 
-![image](https://user-images.githubusercontent.com/84911098/119825085-38e95900-bf14-11eb-9d5a-f7587b3327d9.png)
+![image](https://user-images.githubusercontent.com/84911098/119828270-a34fc880-bf17-11eb-9382-7cb7b78b0127.png)
 
 
 
